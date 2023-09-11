@@ -2,7 +2,8 @@ public class Reduce {
     public static void main(String[] args) {
         int start = 100;
         int count = reduceNumber(start);
-        System.out.println("Steps taken: " + count);
+//        System.out.println("Steps taken: " + count);
+        System.out.println(count);
     }
 
     public static int reduceNumber(int n) {
