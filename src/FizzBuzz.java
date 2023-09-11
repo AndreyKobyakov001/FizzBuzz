@@ -31,7 +31,7 @@ class FizzBuzz {
 
         } else {
 
-            System.out.println(i + "is not divisible by either 3 or 5 ");
+            System.out.println(i + " is not divisible by either 3 or 5");
 
         }
     }
